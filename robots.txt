@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kadryaudit.dokuwell.com/sitemap.xml
